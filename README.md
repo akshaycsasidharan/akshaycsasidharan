@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>
+<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>🎓 Btech Graduate
 
 
 ## 🌐 Socials:
