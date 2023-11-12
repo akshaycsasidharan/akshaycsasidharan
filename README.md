@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>🎓 Btech Graduate
+<br>🎓 Btech Graduate<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>
 
 
 ## 🌐 Socials:
@@ -15,8 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshaycs435&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
