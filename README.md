@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>⚡ Fun fact - i am lazy but perfect
+<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>
 
 
 ## 🌐 Socials:
@@ -23,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=akshaycs435&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 
 <!--
 **akshaycs435/akshaycs435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
