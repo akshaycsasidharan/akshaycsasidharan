@@ -1,13 +1,18 @@
-<br>🎓 Btech Graduate<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>🤝 I’m looking for a good IT job as a DEVELOPER
 # <img src="animated/rabbit.gif" height="30" /> Hey, I'm Abdul Vahab A A <img src="animated/hands.gif" height="30" />
 
 ## 🔗 Links
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a__c_s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-cs-6b332a290) 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
+ [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:akshaycs401@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+8137963621) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-c-s-5789a92b2/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a__c_s_/) 
+
+## 🚀 About Me
+
+#### **Akshay C S**,  Backend Developer Node.js , Full Stack Developer, Web Developer.
+
+<img src="animated/light_1.gif" height="20px" /> As a recent graduate with a passion for learning full stack web development, I am eager to embark on the next chapter of my journey. While my professional experience may be limited, my enthusiasm for [industry/field] is boundless. I am committed to continuous growth, leveraging my education, skills, and determination to contribute meaningfully to any team or project I join.
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+
 ![](https://github-readme-stats.vercel.app/api?username=akshaycs435&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshaycs435&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycs435&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -15,27 +20,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshaycs435&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## 🚀 About Me
-
-#### **Abdul Vahab AA**, Immersive Software Engineer, Backend Developer Node.js & GoLang, Full Stack Developer, Web Developer, Certified Ethical Hacker.
-
-<img src="animated/light_1.gif" height="20px" /> Seasoned professional, forward looking software engineer with 2+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in Backend Web Development and related technologies. Completed 3+ client projects in immersive technologies. Consistently recognized for the contributions in immersive sector and web developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulvahabaa&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=abdulvahabaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulvahabaa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvahabaa&layout=compact&theme=blue-green)
-
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord)
-
-![Abdulvahabaa wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@abdulvahabaa&layout=compact&theme=blue-green) 
 
 # 🛠️ Tech Stack Skills
 
@@ -80,36 +64,20 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-### 💻 Development Tools
-
-![GithubPages](https://img.shields.io/badge/github%20Projects-121013?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshaycs435&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 ## 🔗 Links
 
-<!--
-**akshaycs435/akshaycs435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/11PEj7kY55GsY3nXGgupUZat2xnns1qAP/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvahabaa) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/993565385150435532) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abubakthiyarvlogs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/abubakthiyar) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abubakthiyar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnGZRc2eohC0mySkxA5uLdQ) [![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdubakthiyar)
+ [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:akshaycs401@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+8137963621) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-c-s-5789a92b2/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a__c_s_/) 
+
 
 ---
 
-Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=abdulvahabaa&icon=5&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
