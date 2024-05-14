@@ -9,6 +9,7 @@
 #### **Akshay C S**,  Backend Developer Node.js , Full Stack Developer, Web Developer.
 
 <img src="animated/light_1.gif" height="20px" /> As a recent graduate with a passion for learning full stack web development, I am eager to embark on the next chapter of my journey. While my professional experience may be limited, my enthusiasm for [industry/field] is boundless. I am committed to continuous growth, leveraging my education, skills, and determination to contribute meaningfully to any team or project I join.
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
