@@ -1,9 +1,20 @@
+<br>🎓 Btech Graduate<br>🌱 I’m currently learning fullstack developement<br>💬 Ask me about mern stack<br>🤝 I’m looking for a good IT job as a DEVELOPER
 # <img src="animated/rabbit.gif" height="30" /> Hey, I'm Abdul Vahab A A <img src="animated/hands.gif" height="30" />
 
 ## 🔗 Links
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a__c_s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-cs-6b332a290) 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akshaycs435&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshaycs435&theme=vue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycs435&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/11PEj7kY55GsY3nXGgupUZat2xnns1qAP/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvahabaa) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/993565385150435532) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abubakthiyarvlogs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abubakthiyar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abubakthiyar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnGZRc2eohC0mySkxA5uLdQ)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akshaycs435&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🚀 About Me
 
 #### **Abdul Vahab AA**, Immersive Software Engineer, Backend Developer Node.js & GoLang, Full Stack Developer, Web Developer, Certified Ethical Hacker.
@@ -78,13 +89,27 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=akshaycs435&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
 ## 🔗 Links
 
+<!--
+**akshaycs435/akshaycs435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/11PEj7kY55GsY3nXGgupUZat2xnns1qAP/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvahabaa) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/993565385150435532) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abubakthiyarvlogs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/abubakthiyar) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abubakthiyar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnGZRc2eohC0mySkxA5uLdQ) [![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdubakthiyar)
 
 ---
 
+Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=abdulvahabaa&icon=5&color=0)](https://visitcount.itsvg.in)
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
