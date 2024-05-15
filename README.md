@@ -14,9 +14,17 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-![](https://github-readme-stats.vercel.app/api?username=akshaycsacs&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshaycsacs&theme=vue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycsacs&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaycsacs&show_icons=true&theme=radical)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=akshaycsacs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshaycsacs&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycsacs&layout=compact&theme=blue-green)
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaycsacs&theme=github-compact)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=akshaycsacs&theme=discord)
+
+![Akshay C S wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akshaycsacs&layout=compact&theme=blue-green) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshaycsacs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
