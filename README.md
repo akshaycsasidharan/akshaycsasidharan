@@ -24,7 +24,7 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=akshaycsacs&theme=discord)
 
-![Akshay C S wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akshaycsacs&layout=compact&theme=blue-green) 
+![Akshay C S wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akshaycs&layout=compact&theme=blue-green) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshaycsacs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
