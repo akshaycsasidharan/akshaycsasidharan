@@ -14,20 +14,20 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaycsacs&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=akshaycsacs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaycsasidharan&show_icons=true&theme=radical)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=akshaycsasidharan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshaycsacs&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycsacs&layout=compact&theme=blue-green)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshaycsasidharan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycsasidharan&layout=compact&theme=blue-green)
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaycsacs&theme=github-compact)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaycsasidharan&theme=github-compact)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=akshaycsacs&theme=discord)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=akshaycsasidharan&theme=discord)
 
 ![Akshay C S wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akshaycs&layout=compact&theme=blue-green) 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshaycsacs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akshaycsasidharan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 🛠️ Tech Stack Skills
 
