@@ -1,8 +1,7 @@
 # <img src="animated/rabbit.gif" height="30" /> Hey, I'm Akshay C S <img src="animated/hands.gif" height="30" />
 
 ## 🔗 Links
-
-[![Resume](https://drive.google.com/uc?export=view&id=1xroQDN5fr9XB_RRATFobdgiORAF52hTu)](https://drive.google.com/file/d/1xroQDN5fr9XB_RRATFobdgiORAF52hTu/view)
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1xroQDN5fr9XB_RRATFobdgiORAF52hTu/view)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:akshaycsasidharan@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+8137963621)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaycsofficial/)
