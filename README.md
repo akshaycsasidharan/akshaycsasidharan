@@ -2,7 +2,12 @@
 
 ## 🔗 Links
 
-[![Resume](https://drive.google.com/file/d/1xroQDN5fr9XB_RRATFobdgiORAF52hTu/view)]([https://drive.google.com/file/d/1wr0ojymYQQACRyQVmJ-3DmOdkljMFe_x/view]([https://drive.google.com/file/d/1Yg0sCv51rrbyk6wxLUL8MOshOZBHX-aO/view)](https://drive.google.com/file/d/1xroQDN5fr9XB_RRATFobdgiORAF52hTu/view)) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:akshaycsasidharan@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+8137963621) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaycsofficial/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a__c_s_/) 
+[![Resume](https://drive.google.com/uc?export=view&id=1xroQDN5fr9XB_RRATFobdgiORAF52hTu)](https://drive.google.com/file/d/1xroQDN5fr9XB_RRATFobdgiORAF52hTu/view)
+[![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:akshaycsasidharan@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+8137963621)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaycsofficial/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a__c_s_/)
+
 
 ## 🚀 About Me
 
